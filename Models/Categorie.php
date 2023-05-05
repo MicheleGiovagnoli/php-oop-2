@@ -1,6 +1,6 @@
 <?php 
 
-class Animale{
+class Categorie{
     public $tipo;
 
     public function __construct($_tipo)
